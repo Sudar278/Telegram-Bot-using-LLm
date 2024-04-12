@@ -60,6 +60,4 @@ TELEGRAM_BOT_TOKEN=xxxxxxxxxx:xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 
 ### Sample Screenshot
-![Telegram Bot Screenshot](D:/Sudar/Course_work/Telegram-Bot-using-LLm/Screenshot_2024-04-12-18-51-22-258_org.telegram.messenger.jpg)
-
-
+![Screenshot_2024-04-12-18-51-22-258_org telegram messenger](https://github.com/Sudar278/Telegram-Bot-using-LLm/assets/119469584/218d9c95-fa9d-45ee-8935-53aad54c0d07)
