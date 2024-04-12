@@ -59,7 +59,7 @@ TELEGRAM_BOT_TOKEN=xxxxxxxxxx:xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 ```
 
 
-### Drive link for other integrations
+### Sample Screenshot
+![Telegram Bot Screenshot](D:/Sudar/Course_work/Telegram-Bot-using-LLm/Screenshot_2024-04-12-18-51-22-258_org.telegram.messenger.jpg)
 
-[Link](https://drive.google.com/drive/folders/1JlvnNZczhDtwaypRavkiZjvxOnKp7bsW?usp=sharing)
 
